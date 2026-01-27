@@ -11,11 +11,15 @@ namespace CalculatorService
             switch (sign)
             {
 
+
                 case DIVIDE:
                     if (arg2 == 0) throw new ArithmeticException("Divide by zero");
                     return arg1 / arg2;
 
                 case PLUS:
+
+                case MULTIPLY:
+
                     return arg1 * arg2;
 
                 default:
