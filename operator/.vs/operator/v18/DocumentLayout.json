@@ -28,9 +28,15 @@
               "RelativeDocumentMoniker": "SIGN.cs",
               "ToolTip": "C:\\Users\\hbt2k\\OneDrive\\Documents\\Assignment2_Git\\operator\\SIGN.cs",
               "RelativeToolTip": "SIGN.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAANAAAAAAAAAA==",
+
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-27T16:44:59.413Z"
+              "WhenOpened": "2026-01-27T16:58:35.138Z",
+
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T16:51:33.133Z",
+            "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -40,9 +46,15 @@
               "RelativeDocumentMoniker": "CalculatorService.cs",
               "ToolTip": "C:\\Users\\hbt2k\\OneDrive\\Documents\\Assignment2_Git\\operator\\CalculatorService.cs",
               "RelativeToolTip": "CalculatorService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
+
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-27T16:39:04.637Z",
+              "WhenOpened": "2026-01-27T16:58:25.902Z",
+
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T16:51:25.354Z",
+
               "EditorCaption": ""
             }
           ]
