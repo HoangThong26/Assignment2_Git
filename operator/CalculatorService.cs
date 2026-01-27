@@ -11,7 +11,7 @@ namespace CalculatorService
             switch (sign)
             {
                 case PLUS:
-                    return arg1 + arg2;
+                    return arg1 - arg2;
                 default:
                     break;
             }
