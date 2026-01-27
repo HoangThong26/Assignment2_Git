@@ -1,6 +1,5 @@
 ﻿using static CalculatorService.SIGN;
 
-
 namespace CalculatorService
 {
 
