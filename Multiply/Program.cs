@@ -1,3 +1,4 @@
+
 ﻿namespace Multiply
 {
         public enum SIGN
@@ -21,4 +22,16 @@
                 return 0d;
             }
         }
+
+﻿double Calculate(double a, double b, char op)
+{
+    switch (op)
+    {
+        case '*':
+            return a * b;
+      
+        default:
+            throw new ArgumentException("Invalid operator");
+    }
+feature/CPL26/Anh/implement_multiply
 }
